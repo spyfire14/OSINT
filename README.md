@@ -3,31 +3,31 @@ A list of tools that I have found useful to help with OSINT
 
 ## Transport
 
-###Flight tracking
+### Flight tracking
 https://www.flightradar24.com/
 
-###Car information
+### Car information
 
-##Internet
+## Internet
 
 ### Web history
 https://web.archive.org/
 
-###Reverse image search
+### Reverse image search
 https://www.labnol.org/reverse/
 
-##Communication
+## Communication
 
-###IP lookup
+### IP lookup
 https://whatismyipaddress.com/ip-lookup
 
-###Public wifi
+### Public wifi
 https://wigle.net/
 
-###Morse code translator
+### Morse code translator
 https://morsecode.world/international/translator.html
 
-##Business information
+## Business information
 https://find-and-update.company-information.service.gov.uk/
 
 
